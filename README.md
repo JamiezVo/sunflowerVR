@@ -1,2 +1,0 @@
-# sunflowerVR
-sunflower VR project
